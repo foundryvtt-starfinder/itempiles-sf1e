@@ -5,8 +5,8 @@ on:
     types: [ published ]
 
 env:
-  package_name: "Item Piles: D&D 5e"
-  package_id: itempilesdnd5e
+  package_name: "Item Piles: Starfinder 1e"
+  package_id: itempilessf1e
 
 jobs:
   build:

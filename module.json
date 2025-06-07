@@ -1,8 +1,8 @@
 {
-  "id": "[insert module name here]",
-  "title": "Item Piles: [system name]",
-  "description": "This module adds support for the [system name] system within the Item Piles module",
-  "version": "1.0.0",
+  "id": "itempiles-sf1e",
+  "title": "Item Piles: SF1e",
+  "description": "This module adds support for the Starfinder 1E system within the Item Piles module",
+  "version": "1.0.2",
   "library": "false",
   "compatibility": {
     "minimum": "12",
@@ -11,9 +11,9 @@
   },
   "authors": [
     {
-      "name": "",
-      "url": "",
-      "discord": ""
+      "name": "danimrath",
+      "url": "https://github.com/danimrath",
+      "discord": "danimrath"
     }
   ],
   "esmodules": [
@@ -30,11 +30,21 @@
           "verified": "3.2.7"
         }
       }
+    ],
+    "systems": [
+      {
+        "id": "sfrpg",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.28.0",
+          "verified": "0.28.0"
+        }
+      }
     ]
   },
-  "url": "[your repository URL here]",
-  "manifest": "[your repository URL here]/releases/latest/download/manifest.json",
-  "download": "[your repository URL here]/releases/latest/download/module.zip",
-  "readme": "[your repository URL here]/blob/master/README.md",
-  "bugs": "[your repository URL here]/issues"
+  "url": "https://github.com/foundryvtt-starfinder/itempiles-sf1e",
+  "manifest": "https://github.com/foundryvtt-starfinder/itempiles-sf1e/releases/latest/download/manifest.json",
+  "download": "https://github.com/foundryvtt-starfinder/itempiles-sf1e/releases/latest/download/module.zip",
+  "readme": "https://github.com/foundryvtt-starfinder/itempiles-sf1e/blob/master/README.md",
+  "bugs": "https://github.com/foundryvtt-starfinder/itempiles-sf1e/issues"
 }
