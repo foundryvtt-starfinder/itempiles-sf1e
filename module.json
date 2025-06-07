@@ -1,0 +1,40 @@
+{
+  "id": "[insert module name here]",
+  "title": "Item Piles: [system name]",
+  "description": "This module adds support for the [system name] system within the Item Piles module",
+  "version": "1.0.0",
+  "library": "false",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "",
+      "url": "",
+      "discord": ""
+    }
+  ],
+  "esmodules": [
+    "module.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "item-piles",
+        "type": "module",
+        "manifest": "https://github.com/fantasycalendar/FoundryVTT-ItemPiles/releases/latest/download/manifest.json",
+        "compatibility": {
+          "minimum": "3.2.7",
+          "verified": "3.2.7"
+        }
+      }
+    ]
+  },
+  "url": "[your repository URL here]",
+  "manifest": "[your repository URL here]/releases/latest/download/manifest.json",
+  "download": "[your repository URL here]/releases/latest/download/module.zip",
+  "readme": "[your repository URL here]/blob/master/README.md",
+  "bugs": "[your repository URL here]/issues"
+}
