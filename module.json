@@ -36,8 +36,8 @@
         "id": "sfrpg",
         "type": "system",
         "compatibility": {
-          "minimum": "0.28.0",
-          "verified": "0.28.0"
+          "minimum": "0.27.3",
+          "verified": "0.27.3"
         }
       }
     ]
