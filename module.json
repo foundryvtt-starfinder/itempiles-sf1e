@@ -43,7 +43,7 @@
     ]
   },
   "url": "https://github.com/foundryvtt-starfinder/itempiles-sf1e",
-  "manifest": "https://github.com/foundryvtt-starfinder/itempiles-sf1e/releases/latest/download/manifest.json",
+  "manifest": "https://github.com/foundryvtt-starfinder/itempiles-sf1e/releases/latest/download/module.json",
   "download": "https://github.com/foundryvtt-starfinder/itempiles-sf1e/releases/latest/download/module.zip",
   "readme": "https://github.com/foundryvtt-starfinder/itempiles-sf1e/blob/master/README.md",
   "bugs": "https://github.com/foundryvtt-starfinder/itempiles-sf1e/issues"
