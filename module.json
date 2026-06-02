@@ -2,7 +2,7 @@
   "id": "itempiles-sf1e",
   "title": "Item Piles: SF1e",
   "description": "This module adds support for the Starfinder 1E system within the Item Piles module",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "library": "false",
   "compatibility": {
     "minimum": "12",
