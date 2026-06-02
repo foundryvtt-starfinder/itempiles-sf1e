@@ -2,12 +2,12 @@
   "id": "itempiles-sf1e",
   "title": "Item Piles: SF1e",
   "description": "This module adds support for the Starfinder 1E system within the Item Piles module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "library": "false",
   "compatibility": {
     "minimum": "12",
-    "verified": "13",
-    "maximum": "13"
+    "verified": "14",
+    "maximum": "14"
   },
   "authors": [
     {
@@ -27,7 +27,7 @@
         "manifest": "https://github.com/fantasycalendar/FoundryVTT-ItemPiles/releases/latest/download/manifest.json",
         "compatibility": {
           "minimum": "3.2.7",
-          "verified": "3.2.7"
+          "verified": "3.3.2"
         }
       }
     ],
@@ -37,7 +37,7 @@
         "type": "system",
         "compatibility": {
           "minimum": "0.27.3",
-          "verified": "0.27.3"
+          "verified": "14.0.0"
         }
       }
     ]
